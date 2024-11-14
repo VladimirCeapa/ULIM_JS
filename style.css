@@ -1,0 +1,9 @@
+.black {
+
+    display: flex;
+    color: royalblue;
+    margin: 0, auto;
+    border-radius: 1px black solid;
+    width: 125px;
+    height: 125px;
+}
